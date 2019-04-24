@@ -1,0 +1,31 @@
+C:\Users\Dmitriy\Desktop\Backgammon Game\Backgammon Game\bin\Debug\Backgammon Game.exe.config
+C:\Users\Dmitriy\Desktop\Backgammon Game\Backgammon Game\bin\Debug\Backgammon Game.exe
+C:\Users\Dmitriy\Desktop\Backgammon Game\Backgammon Game\bin\Debug\Backgammon Game.pdb
+C:\Users\Dmitriy\Desktop\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.csprojAssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Backgammon Game\Backgammon Game\obj\Debug\Backgammon_Game.Form1.resources
+C:\Users\Dmitriy\Desktop\Backgammon Game\Backgammon Game\obj\Debug\Backgammon_Game.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.exe
+C:\Users\Dmitriy\Desktop\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.pdb
+E:\Backgammon Game\Backgammon Game\bin\Debug\Backgammon Game.exe.config
+E:\Backgammon Game\Backgammon Game\bin\Debug\Backgammon Game.exe
+E:\Backgammon Game\Backgammon Game\bin\Debug\Backgammon Game.pdb
+E:\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.csprojAssemblyReference.cache
+E:\Backgammon Game\Backgammon Game\obj\Debug\Backgammon_Game.Form1.resources
+E:\Backgammon Game\Backgammon Game\obj\Debug\Backgammon_Game.Properties.Resources.resources
+E:\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.csproj.GenerateResource.cache
+E:\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.csproj.CoreCompileInputs.cache
+E:\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.exe
+E:\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.pdb
+C:\Users\studentam\source\repos\Backgammon Game\Backgammon Game\bin\Debug\Backgammon Game.exe.config
+C:\Users\studentam\source\repos\Backgammon Game\Backgammon Game\bin\Debug\Backgammon Game.exe
+C:\Users\studentam\source\repos\Backgammon Game\Backgammon Game\bin\Debug\Backgammon Game.pdb
+C:\Users\studentam\source\repos\Backgammon Game\Backgammon Game\obj\Debug\Backgammon_Game.Form1.resources
+C:\Users\studentam\source\repos\Backgammon Game\Backgammon Game\obj\Debug\Backgammon_Game.Properties.Resources.resources
+C:\Users\studentam\source\repos\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.csproj.GenerateResource.cache
+C:\Users\studentam\source\repos\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.csproj.CoreCompileInputs.cache
+C:\Users\studentam\source\repos\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.exe
+C:\Users\studentam\source\repos\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.pdb
+C:\Users\studentam\source\repos\Backgammon Game\Backgammon Game\obj\Debug\Backgammon Game.csprojAssemblyReference.cache
+C:\Users\studentam\source\repos\Backgammon Game\Backgammon Game\obj\Debug\Backgammon_Game.NoMovesForm.resources
